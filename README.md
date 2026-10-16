@@ -36,3 +36,9 @@ bmianalysis
 ```
 
 > ⚠️ **运行前注意**：脚本里的读取路径写成了 `/fitness_bmi_data.csv.xlsx`（开头是斜杠，MATLAB 会解析到盘符根目录）。需要改成数据文件的实际路径，比如 `readtable('fitness_bmi_data.csv.xlsx')`。
+
+---
+
+## 许可
+
+[MIT](./LICENSE) © 2025 liuzunn
